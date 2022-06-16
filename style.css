@@ -1,0 +1,42 @@
+
+body {
+    background-color: #FFE77AFF;
+    width: 1000px;
+    margin: auto
+}
+
+footer, header {
+    text-align: center;
+    background-color: #2C5F2DFF;
+    color: #FFE77AFF;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    right: 0;
+}
+header {
+    height: 80px;
+    top: 0;
+    vertical-align: middle;
+}
+footer {
+    height: 60px;
+    bottom: 0;
+}
+h1 {
+    font-family: Georgia;
+    font-size: 40px;
+    font-weight: bold;
+    color: #FFE77AFF;
+    margin-top: 20px;
+    text-align: center;
+}
+
+h6 {
+    font-family: Georgia;
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFE77AFF;
+    margin-top: 5px;
+    text-align: center;
+}
